@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
 
   const contactOptions = [
     { icon: <Phone className="w-6 h-6" />, title: 'Call Us', detail: '+1 (555) 123-4567', sub: 'Available Mon-Fri, 9am-6pm' },
-    { icon: <Mail className="w-6 h-6" />, title: 'Email Us', detail: 'hello@luxeestate.com', sub: "We'll reply within 24 hours" },
+    { icon: <Mail className="w-6 h-6" />, title: 'Email Us', detail: 'hello@estatepro.com', sub: "We'll reply within 24 hours" },
     { icon: <MapPin className="w-6 h-6" />, title: 'Visit Us', detail: '123 Real Estate Ave', sub: 'Luxury District, NY 10001' },
   ];
 

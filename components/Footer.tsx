@@ -14,10 +14,10 @@ const Footer: React.FC = () => {
               <div className="p-2 bg-blue-600 rounded-lg">
                 <Home className="text-white w-5 h-5" />
               </div>
-              <span className="text-xl font-bold text-white">LuxeEstate</span>
+              <span className="text-xl font-bold text-white">EstatePro</span>
             </Link>
             <p className="text-sm leading-relaxed text-gray-400">
-              Find your perfect sanctuary with LuxeEstate. We offer a curated collection of premium properties across prime locations.
+              Find your perfect sanctuary with EstatePro. We offer a curated collection of premium properties across prime locations.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-blue-500 transition-colors"><Facebook className="w-5 h-5" /></a>
@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-blue-500 shrink-0" />
-                <span className="text-sm">hello@luxeestate.com</span>
+                <span className="text-sm">hello@estatepro.com</span>
               </li>
             </ul>
           </div>
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} LuxeEstate. All rights reserved.
+            © {new Date().getFullYear()} EstatePro. All rights reserved.
           </p>
           <div className="flex space-x-6 text-xs text-gray-500">
             <a href="#" className="hover:text-white">Privacy Policy</a>

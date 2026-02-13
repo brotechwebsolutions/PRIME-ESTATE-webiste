@@ -31,7 +31,7 @@ const About: React.FC = () => {
           >
             <h1 className="text-5xl md:text-7xl font-extrabold mb-6">Revolutionizing <span className="text-blue-500">Property</span> Discovery</h1>
             <p className="text-xl text-gray-300 leading-relaxed">
-              LuxeEstate was founded on a simple mission: to make finding your next home as exciting and effortless as living in it.
+              EstatePro was founded on a simple mission: to make finding your next home as exciting and effortless as living in it.
             </p>
           </motion.div>
         </div>
@@ -61,7 +61,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-8">Our Journey to Excellence</h2>
             <div className="space-y-6 text-lg text-gray-600">
               <p>
-                Started in 2018, LuxeEstate emerged from the frustration of traditional real estate hurdles. We saw an industry stuck in the past and decided to build a platform that leverages modern technology for a more human experience.
+                Started in 2018, EstatePro emerged from the frustration of traditional real estate hurdles. We saw an industry stuck in the past and decided to build a platform that leverages modern technology for a more human experience.
               </p>
               <p>
                 Today, we are more than just a listing site. We are a community of homeowners, seekers, and experts working together to build better living experiences. Every flat, plot, and room we list is a potential new chapter for someone.
@@ -89,7 +89,7 @@ const About: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4">Meet the Visionaries</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">Behind LuxeEstate is a diverse team of tech enthusiasts and real estate veterans dedicated to your success.</p>
+            <p className="text-gray-600 max-w-2xl mx-auto">Behind EstatePro is a diverse team of tech enthusiasts and real estate veterans dedicated to your success.</p>
           </div>
           <div className="grid md:grid-cols-3 gap-12">
             {[1, 2, 3].map((i) => (

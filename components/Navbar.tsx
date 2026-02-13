@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
                 <Home className="text-white w-5 h-5" />
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
-                LuxeEstate
+                EstatePro
               </span>
             </Link>
           </div>
